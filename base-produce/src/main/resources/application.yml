@@ -8,3 +8,5 @@ server:
 spring:
   application:
     name: service-member
+apollo:
+  Meta: http://localhost:8070
